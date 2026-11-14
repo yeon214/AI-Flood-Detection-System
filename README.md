@@ -28,8 +28,7 @@
   - 내성지하차도 및 만덕 진출입로의 위도·경도를 기상청 격자 좌표로 변환
   - 기상청 초단기실황 API를 호출하여 1시간 강수량(RN1) 추출
   - 환경변수를 활용한 API 인증키 관리
-  - [📂 Source Code - weather_api.py](./AI-Flood-Detection-System
-/weather_api.py)
+  - [📂 Source Code - weather_api.py](./weather_api.py)
 
 - **AI 학습 데이터셋 공동 조사**
   - 침수 감지 모델 학습에 활용할 데이터셋 조사 및 검토
